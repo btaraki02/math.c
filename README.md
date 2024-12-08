@@ -1,0 +1,2 @@
+# math.c
+just fonction
